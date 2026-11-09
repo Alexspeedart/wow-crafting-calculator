@@ -1,0 +1,100 @@
+{
+  "source": "https://wowforevertalents.com/professions/tailoring/bags/",
+  "client_build": "1.60.1.70862",
+  "recipes": [
+    {
+      "name": "Linen Bag",
+      "skill": 1,
+      "reagents": [
+        {
+          "name": "Bolt of Linen Cloth",
+          "qty": 3
+        },
+        {
+          "name": "Coarse Thread",
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "name": "Red Linen Bag",
+      "skill": 50,
+      "reagents": [
+        {
+          "name": "Bolt of Linen Cloth",
+          "qty": 4
+        },
+        {
+          "name": "Fine Thread",
+          "qty": 1
+        },
+        {
+          "name": "Red Dye",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "name": "Woolen Bag",
+      "skill": 75,
+      "reagents": [
+        {
+          "name": "Bolt of Woolen Cloth",
+          "qty": 3
+        },
+        {
+          "name": "Fine Thread",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "name": "Green Woolen Bag",
+      "skill": 75,
+      "reagents": [
+        {
+          "name": "Bolt of Woolen Cloth",
+          "qty": 4
+        },
+        {
+          "name": "Green Dye",
+          "qty": 1
+        },
+        {
+          "name": "Fine Thread",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "name": "Red Woolen Bag",
+      "skill": 90,
+      "reagents": [
+        {
+          "name": "Bolt of Woolen Cloth",
+          "qty": 4
+        },
+        {
+          "name": "Red Dye",
+          "qty": 1
+        },
+        {
+          "name": "Fine Thread",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "name": "Small Silk Pack",
+      "skill": 145,
+      "reagents": [
+        {
+          "name": "Bolt of Silk Cloth",
+          "qty": 3
+        },
+        {
+          "name": "Heavy Leather",
+          "qty": 2
+        },
+        {
+          "name": "Fine Thread",
