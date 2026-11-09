@@ -98,3 +98,171 @@
         },
         {
           "name": "Fine Thread",
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "name": "Green Silk Pack",
+      "skill": 140,
+      "reagents": [
+        {
+          "name": "Bolt of Silk Cloth",
+          "qty": 4
+        },
+        {
+          "name": "Heavy Leather",
+          "qty": 3
+        },
+        {
+          "name": "Fine Thread",
+          "qty": 3
+        },
+        {
+          "name": "Green Dye",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "name": "Black Silk Pack",
+      "skill": 150,
+      "reagents": [
+        {
+          "name": "Bolt of Silk Cloth",
+          "qty": 5
+        },
+        {
+          "name": "Black Dye",
+          "qty": 1
+        },
+        {
+          "name": "Fine Thread",
+          "qty": 4
+        }
+      ]
+    },
+    {
+      "name": "Mageweave Bag",
+      "skill": 205,
+      "reagents": [
+        {
+          "name": "Bolt of Mageweave",
+          "qty": 4
+        },
+        {
+          "name": "Silken Thread",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "name": "Red Mageweave Bag",
+      "skill": 210,
+      "reagents": [
+        {
+          "name": "Bolt of Mageweave",
+          "qty": 4
+        },
+        {
+          "name": "Red Dye",
+          "qty": 2
+        },
+        {
+          "name": "Heavy Silken Thread",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "name": "Runecloth Bag",
+      "skill": 215,
+      "reagents": [
+        {
+          "name": "Bolt of Runecloth",
+          "qty": 5
+        },
+        {
+          "name": "Rugged Leather",
+          "qty": 2
+        },
+        {
+          "name": "Rune Thread",
+          "qty": 1
+        },
+        {
+          "name": "Magenta Dye",
+          "qty": 4
+        },
+        {
+          "name": "Cerulean Dye",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "name": "Mooncloth Bag",
+      "skill": 255,
+      "reagents": [
+        {
+          "name": "Bolt of Runecloth",
+          "qty": 4
+        },
+        {
+          "name": "Mooncloth",
+          "qty": 1
+        },
+        {
+          "name": "Rune Thread",
+          "qty": 1
+        },
+        {
+          "name": "Viridian Dye",
+          "qty": 10
+        },
+        {
+          "name": "Magenta Dye",
+          "qty": 2
+        },
+        {
+          "name": "Cerulean Dye",
+          "qty": 4
+        }
+      ]
+    },
+    {
+      "name": "Bottomless Bag",
+      "skill": 300,
+      "reagents": [
+        {
+          "name": "Bolt of Runecloth",
+          "qty": 8
+        },
+        {
+          "name": "Mooncloth",
+          "qty": 12
+        },
+        {
+          "name": "Large Brilliant Shard",
+          "qty": 2
+        },
+        {
+          "name": "Pristine Scale",
+          "qty": 5
+        },
+        {
+          "name": "Pristine Hide",
+          "qty": 5
+        },
+        {
+          "name": "Viridian Dye",
+          "qty": 8
+        },
+        {
+          "name": "Rune Thread",
+          "qty": 2
+        }
+      ]
+    }
+  ]
+}
